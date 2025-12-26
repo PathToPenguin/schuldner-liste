@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "schuldner-liste",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0e488a42-0b27-49f1-8229-2f597a16653b",
+			"database_name": "schuldnerliste-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
